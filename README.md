@@ -2,7 +2,7 @@
 
 A fictitious UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. A new contractor by the editors of a food magazine, "Eat Safe, Love", was hired to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
-The contractor first loaded the data into a noSQL server and prepared the data. The preparation and cleaning process can be found on [NoSQL_setup_starte.ipynb](./NoSQL_setup_starte.ipynb).
+The contractor first loaded the data into a noSQL server and prepared the data. The preparation and cleaning process can be found on [NoSQL_setup_starter.ipynb](./NoSQL_setup_starter.ipynb).
 
 Then contractor then addresses the following questions:
 
